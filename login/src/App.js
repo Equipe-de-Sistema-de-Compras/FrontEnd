@@ -1,10 +1,9 @@
+import React from 'react';
 
-import './App.css';
+/*Declara uma fumção como class */
+class App extends React.Component {
+ 
 
-function App() {
-  return (
-  <div>Elias</div>    
-  );
 }
 
 export default App;
